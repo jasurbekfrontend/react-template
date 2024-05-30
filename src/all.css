@@ -121,7 +121,6 @@ a {
   padding: 4px 4px;
   width: 56%;
   height: 100%;
-  background-color: red;
   display: flex;
   flex-wrap: wrap;
   background-image: url(./burgerPageBackround.jpg);
@@ -202,7 +201,6 @@ a {
 .menu {
   height: 72vh;
   width: 25%;
-  background-color: red;
   display: flex;
   flex-direction: column;
   background-image: url("./menuBackround.jpg");
